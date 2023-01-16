@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "workspace-checker",
+  "private_key_id": "d54bdc6e62b036cb1d91bb9ce617f0289fd57dec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTJ522s2P/ev4C\nFZ9F2He8KQtc+7abz2FeeednEfgB6YL9nCk/OuR8P08FYzb7i+VGk5RuLWc492nN\netDyM1VVTfrHFgIga0jZjrbKnA14x418Es2w2rR5xVWaO3N0SqpTD5uPlcYalcR1\ncll9bKh5HtuN4iuuMJyExxCZQUEDU8ZPM+wx70y0hMHFnUUSBVE4Ey4vSnSznaGF\ng7dnnyzjV3Vv3Lbv5pjnXvtM3HsI09pOarV7Gz/ro8igc/w9gsSGq+UitIPyJXTI\nG3aJ6o26S2iQZnA0wC4CejEkuR4zTvScD86qz5sLqrQ4yOL9DkluFIkcJdwdRxkN\nVvu9j6D/AgMBAAECggEAQU9XVXN3wbc2DfnHtymUNpvm0a1bxfo75kDnXVzhvAOF\n4gYRXmFGcAhvC16V0/2qU/EC8wVOpz9To2FLY/s5d8NEtmBDsFy9N+V5piGtbvnu\nBu+Xf9MJP3RAAlQ5cRcEUhn+ujLIehsXVuLZ6es0OJFj8yw6o7Qqe1mYOdR2xMEY\n0dRL1td4W9PgYntBGJS2B5WI5hfsGjsS2pPymTS9Od72fLadvMoFKFnAOP1T0CK+\nxQ9kY+OAfEbzcWF2Cw842s1OAsMv6c/aXiG+jL/QM11/TtBwsRUcHu5JZT61sYQF\nta1EZAIwL0aq5WeB2L8fVKdr3yWEThGGtmV3L76wtQKBgQDGhbzKvp4nIqHM9g+v\nLn18aS32YORLL8+cc/Z4NeRk6vLLN21u/LKHGqY2eDbffgmT9jxo++g/gOhHx5ns\nVDnx2yF6HDShkISwlrwIU92fed96q2qsP0wW+0ySaLGHABTzzDwM6cHOYcmHo2YE\nvRWOw3XdxdkCAFlG3Wr0A1VFJQKBgQC9wpBoF9itPoSrjdmSNha7sOQdE1HKLW5r\nQU89aj+x8IgvF7b+qGGIhaN6UQJiWfW27+6Zf00n6RN+IiMPo2QHUufMJuQgI+yE\nk7NGWrazNfI+sl+kmFUsaRgHCxCQaqxO+qeYdvIrnfoiGtv6CbGs4ZPX6k8OolvT\nkdb0ZLp+UwKBgCu4TkCURD44KUv7MK8S3P3mKAInin9ocx9whmoo7DixaXEJrucP\nbb3FR6+dP/BuUGuugdVZDOfXWtBcC/D5B53U9YVv6sNeEWrWd2iaF6fEbkwUrjRq\n6DXzeASSW+5wPS0H4H2ziUQLUxe1C4WlorbDIxUJOmZvbznlD2XXyhKlAoGAYH3I\nCnZdwrJwqf+Ga/e/FY+8XyCMzX7OkBF0pqkZXHUP+spXTiT2+4Hg//ijerl93Zkh\nvcHizPGS7OeU5oXR/ntkzQXVqJY71ap5VcQY9QXweXsgcUTYwq1p/2Lb+GOV3M9O\nW5PYTt+U6rS3uOwnAd7u27MUoj9i7DFTmZCC2GsCgYA5tC75y5nCIRvyKu9IDoKM\n8zJ731NqdRPXfEg3KhBPxO+I7ZkQlyzbBa9PGRhxHjbkkOpWYK/IQDrZamtsy6Md\n6uHt2otD7VLiHm7FpeNLNjfMfWG2JjWnm+pcK/EgWishnI+/gVVP/kPwjGP2MNaD\nB4YDqDKI8EdtnIOTBUh85A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "workspacechecker@workspace-checker.iam.gserviceaccount.com",
+  "client_id": "106316698931208143241",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/workspacechecker%40workspace-checker.iam.gserviceaccount.com"
+}
